@@ -1,0 +1,13 @@
+{
+    "name": "newnetcms/frontend",
+    "description": "NewnetCMS Package For Frontend",
+    "license": "MIT",
+    "require": {
+        "newnetcms/backend": "self.version",
+        "newnetcms/menu": "self.version",
+        "newnetcms/seo": "self.version",
+        "newnetcms/tag": "self.version",
+        "newnetcms/theme": "self.version",
+        "newnetcms/multilingual": "self.version"
+    }
+}
